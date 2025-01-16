@@ -14,16 +14,21 @@ The project includes:
 
 ---
 
+## App Screenshot
+![image](https://github.com/user-attachments/assets/c86b9a9a-c2a7-4927-9d44-2b02a699c401)
+
+
 ## Features
 - **Age-Specific Models**:
   - **Linear Regression** for users aged ≤ 25.
+    ![image](https://github.com/user-attachments/assets/34a86386-01c5-482b-ae73-a6ae0f311410)
+
   - **XGBoost** for users aged > 25.
+    ![image](https://github.com/user-attachments/assets/0790d34d-3748-4c37-9748-110e1bc66115)
+
 - **Interactive Interface**: Users can input their details (age, BMI, smoking status, etc.) to get an instant premium prediction.
 - **Machine Learning Pipelines**: Tailored workflows for preprocessing and training the models.
 - **Streamlit Deployment**: A simple and intuitive web app for easy usage.
-
-## App Screenshot
-![image](https://github.com/user-attachments/assets/c86b9a9a-c2a7-4927-9d44-2b02a699c401)
 
 
 ---
