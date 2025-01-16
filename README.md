@@ -22,8 +22,9 @@ The project includes:
 - **Machine Learning Pipelines**: Tailored workflows for preprocessing and training the models.
 - **Streamlit Deployment**: A simple and intuitive web app for easy usage.
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/ace0a7ec-a416-421d-9761-901159c997d1)
-)
+## App Screenshot
+![image](https://github.com/user-attachments/assets/c86b9a9a-c2a7-4927-9d44-2b02a699c401)
+
 
 ---
 
