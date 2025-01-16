@@ -17,6 +17,7 @@ The project includes:
 ## App Screenshot
 ![image](https://github.com/user-attachments/assets/c86b9a9a-c2a7-4927-9d44-2b02a699c401)
 
+---
 
 ## Features
 - **Age-Specific Models**:
@@ -29,14 +30,6 @@ The project includes:
 - **Interactive Interface**: Users can input their details (age, BMI, smoking status, etc.) to get an instant premium prediction.
 - **Machine Learning Pipelines**: Tailored workflows for preprocessing and training the models.
 - **Streamlit Deployment**: A simple and intuitive web app for easy usage.
-
-
----
-
-## Technologies Used
-- **Python**: Data preprocessing, model building, and evaluation.
-- **Streamlit**: For creating and deploying the web application.
-- **Libraries**: pandas, scikit-learn, XGBoost, matplotlib, seaborn, numpy.
 
 ---
 
