@@ -14,7 +14,7 @@ The **Health Insurance Premium Predictor** is a machine learning-based applicati
 ---
 
 ## Demo  
-🔗 [Live Application](https://lnkd.in/g4Bw22aK)  
+🔗 [[Live Application](https://lnkd.in/g4Bw22aK) ](https://healthcare-premium-predictor-kesavadas.streamlit.app/) 
 
 ---
 
